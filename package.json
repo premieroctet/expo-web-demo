@@ -1,6 +1,6 @@
 {
   "main": "node_modules/expo/AppEntry.js",
-  "homepage": "https://github.com/premieroctet/expo-web-demo",
+  "homepage": "https://premieroctet.github.io/expo-web-demo/",
   "scripts": {
     "start": "expo start",
     "android": "expo start --android",
